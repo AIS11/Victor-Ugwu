@@ -350,7 +350,7 @@ button span{
     left: 50%;
     /* position: absolute; */
     /* transform: translate(-50%, -50%); */
-    width: 500px;
+    width: 400px;
     box-sizing: border-box;
     overflow: hidden;
     /* text-align: center; */
@@ -457,5 +457,22 @@ button span{
     }
     .sermons a{
         font-size: 15px;
+    }
+    .comment-box input{
+        width: 60%;
+        height: 50px;
+        padding: 0 20px;
+        margin-bottom: 15px;
+        border-radius: 5px;
+        border: 1px solid #86b0b6;
+    }
+    .comment-box textarea{
+        width: 60%;
+        height: 150px;
+        padding: 15px 20px;
+        margin-bottom: 10px;
+        border-radius: 5px;
+        border: 1px solid #86b0b6;
+        margin-left: 7%;
     }
 }
