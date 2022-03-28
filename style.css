@@ -474,17 +474,6 @@ button span{
         border-radius: 5px;
         border: 1px solid #86b0b6;
     }
-    /* .comment-box textarea{
-        width: 60%;
-        height: 150px;
-        padding: 15px 20px;
-        margin-bottom: 10px;
-        border-radius: 5px;
-        border: 1px solid #86b0b6;
-        margin-left: 7%;
-        box-sizing: border-box;
-        overflow: hidden;
-    } */
     .comment-box textarea{
         width: 60%;
         height: 150px;
@@ -498,6 +487,6 @@ button span{
         text-align: center;
         background-color: rgba(0, 0, 43, 0.973);
         color: white;
-        width: 100%;
+        width: fit-content;
     }
 }
