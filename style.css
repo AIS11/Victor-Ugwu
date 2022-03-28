@@ -474,5 +474,11 @@ button span{
         border-radius: 5px;
         border: 1px solid #86b0b6;
         margin-left: 7%;
+        box-sizing: border-box;
+        overflow: hidden;
+    }
+    .comment-box{
+        overflow: hidden;
+        box-sizing: border-box;
     }
 }
