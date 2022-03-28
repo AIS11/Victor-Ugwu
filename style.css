@@ -477,8 +477,4 @@ button span{
         box-sizing: border-box;
         overflow: hidden;
     }
-    .comment-box{
-        overflow: hidden;
-        box-sizing: border-box;
-    }
 }
