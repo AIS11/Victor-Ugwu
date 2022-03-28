@@ -403,14 +403,6 @@ button span{
 }
 
 @media only screen and (max-width:700px){
-    .container{
-        width: 100%;
-        min-height: 100vh;
-        padding-left: 8%;
-        padding-right: 8%;
-        box-sizing: border-box;
-        overflow: hidden;
-    }
     nav ul{
         width: 100%;
         background: linear-gradient(#ff54a2, #ff575a);
@@ -493,11 +485,5 @@ button span{
         border-radius: 5px;
         border: 1px solid #86b0b6;
         margin-left: 7%;
-    }
-    .social-links{
-        text-align: center;
-        background-color: rgba(0, 0, 43, 0.973);
-        color: white;
-        width: 100%;
     }
 }
