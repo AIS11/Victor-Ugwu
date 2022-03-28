@@ -403,10 +403,6 @@ button span{
 }
 
 @media only screen and (max-width:700px){
-    *{
-        box-sizing: border-box;
-        overflow: hidden;
-    }
     nav ul{
         width: 100%;
         background: linear-gradient(#ff54a2, #ff575a);
