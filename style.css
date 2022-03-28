@@ -403,7 +403,7 @@ button span{
 }
 
 @media only screen and (max-width:700px){
-    *{
+    .container{
         width: 100%;
         min-height: 100vh;
         padding-left: 8%;
@@ -474,6 +474,17 @@ button span{
         border-radius: 5px;
         border: 1px solid #86b0b6;
     }
+    /* .comment-box textarea{
+        width: 60%;
+        height: 150px;
+        padding: 15px 20px;
+        margin-bottom: 10px;
+        border-radius: 5px;
+        border: 1px solid #86b0b6;
+        margin-left: 7%;
+        box-sizing: border-box;
+        overflow: hidden;
+    } */
     .comment-box textarea{
         width: 60%;
         height: 150px;
