@@ -487,6 +487,6 @@ button span{
         text-align: center;
         background-color: rgba(0, 0, 43, 0.973);
         color: white;
-        width: fit-content;
+        width: 100%;
     }
 }
