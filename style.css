@@ -252,7 +252,7 @@ nav ul li a:hover{
 
 .col-1 p{
     font-size: 16px;
-    color: #b7b7b7;
+    color: #949292;
     font-weight: 100;
 }
 
@@ -346,11 +346,11 @@ button span{
 }
 
 .comment-box{
-    top: 50%;
-    left: 50%;
+    /* top: 50%;
+    left: 50%; */
     /* position: absolute; */
     /* transform: translate(-50%, -50%); */
-    width: 400px;
+    width: 90%;
     box-sizing: border-box;
     overflow: hidden;
     /* text-align: center; */
@@ -358,27 +358,27 @@ button span{
 .comment-box h2{
     font-size: 20px;
     margin-bottom: 15px;
-    margin-left: 7%;
+    margin-left: 5%;
     text-align: left;
 
 }
 .comment-box input{
-    width: 80%;
+    width: 90%;
     height: 50px;
     padding: 0 20px;
     margin-bottom: 15px;
     border-radius: 5px;
     border: 1px solid #86b0b6;
-    margin-left: 7%;
+    margin-left: 5%;
 }
 .comment-box textarea{
-    width: 80%;
+    width: 90%;
     height: 150px;
     padding: 15px 20px;
     margin-bottom: 10px;
     border-radius: 5px;
     border: 1px solid #86b0b6;
-    margin-left: 7%;
+    margin-left: 5%;
 }
 .comment-box input:focus{
     border: 1px solid #000;
@@ -395,7 +395,7 @@ button span{
     font-size: 18px;
     border-radius: 5px;
     color: #fff;
-    margin-left: 7%;
+    margin-left: 5%;
     margin-bottom: 20px;
 }
 .comment-box button:hover {
@@ -459,7 +459,7 @@ button span{
         font-size: 15px;
     }
     .comment-box input{
-        width: 60%;
+        width: 80%;
         height: 50px;
         padding: 0 20px;
         margin-bottom: 15px;
@@ -478,13 +478,13 @@ button span{
         overflow: hidden;
     } */
     .comment-box textarea{
-        width: 60%;
+        width: 80%;
         height: 150px;
         padding: 15px 20px;
         margin-bottom: 10px;
         border-radius: 5px;
         border: 1px solid #86b0b6;
-        margin-left: 7%;
+        margin-left: 5%;
     }
     .social-links{
         text-align: center;
